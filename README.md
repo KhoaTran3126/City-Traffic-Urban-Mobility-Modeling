@@ -1,4 +1,4 @@
-# 🚦 Smart City Traffic and Urban Mobility Modeling
+# 🚦 City Traffic and Urban Mobility Modeling
 
 This project explains urban traffic patterns and forecasts total citywide vehicle demand from 1 to 24 hours ahead. It combines exploratory analysis, intersection clustering, time series validation, model tuning, ensemble testing, and production style inference.
 
