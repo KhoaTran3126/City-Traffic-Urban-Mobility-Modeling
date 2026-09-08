@@ -1,6 +1,6 @@
 # SQL Analysis
 
-This directory contains the SQL analyses for the **Smart City Traffic & Urban Mobility Modeling** project. The queries examine major dimensions of urban mobility such as traffic demand, congestion, weather effects, signal performance, and environmental impact.
+This directory contains the SQL analyses for the **Smart City Traffic & Urban Mobility Modeling** project. The queries examine major dimensions of urban mobility such as traffic demand, weather effects, and environmental impact.
 
 ## Analysis Structure
 
