@@ -7,9 +7,7 @@ This directory contains the SQL analyses for the **Smart City Traffic & Urban Mo
 | File | Analysis |
 |---|---|
 | `01_traffic_flow_demand.sql` | Traffic volume & demand patterns |
-| `02_congestion.sql` | Congestion severity, bottlenecks, incidents, and spatial/intersection patterns |
-| `03_weather.sql` | Effects of weather conditions on traffic flow and congestion |
-| `04_traffic_signal.sql` | Traffic signal timing, efficiency, and intersection performance |
-| `05_environment.sql` | CO₂ emissions, idling, and environmental impacts of traffic conditions |
+| `02_weather.sql` | Effects of weather conditions on traffic flow and congestion |
+| `03_environment.sql` | CO₂ emissions, idling, and environmental impacts of traffic conditions |
 
 The analyses use techniques including **CTEs, joins, window functions, conditional aggregation, ranking, rolling statistics, and temporal comparisons** to derive insights from the city's spatiotemporal traffic data.
